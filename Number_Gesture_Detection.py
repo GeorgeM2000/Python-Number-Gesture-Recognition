@@ -1,8 +1,5 @@
-import mediapipe as mp
 import cv2
-import numpy as np
 from Hand_Tracking import Hand_Detector
-import tkinter as tk
 import time
 
 
